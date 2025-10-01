@@ -1,4 +1,6 @@
-# do use npm install in git bash terminal to install modules needed
+# can download zip file of this project in 'code' green button on github
+# do use 'npm install' in git bash terminal to install modules needed. Only then will the website can run (unless you have them already)
+# use 'npm run dev' to run the web. A link to the web will display in terminal, click on it or copy and paste it on adress bar of browser
 
 
 
